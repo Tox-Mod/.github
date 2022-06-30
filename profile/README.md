@@ -4,7 +4,7 @@
  <br>
 
 </h1>
-<p align="center">The <a href="https
+<p align="center">The Open-Source <a href="https
 ://toxmod.xyz/discord">Discord</a> Bot 
 with a little bit of Attitude.</p>
 <hr>
