@@ -4,20 +4,7 @@ height='100px' width='100px' />
  <br>
    Tox Mod
  <br>
-   <img src="https://img.shields.io
-/github/package-json/v/Tox-Mod/ToxModBot
-?style=flat-square&logo=github&label
-=Version&color=%2334D058" alt="Tox 
-Version" />
-   <img src="https://img.shields.io/badge
-/Discord.js-v12-%2334d058?style=flat
--square&logo=npm&logoColor=fff" alt="DJS 
-Version" />
- <br>
-   <a href="https://infinitybotlist.com
-/bots/631558023109804032"><img src="https
-://infinitybotlist.com/bots/6315580231098
-04032/widget" alt="IBL Widget"/></a>
+
 </h1>
 <p align="center">The <a href="https
 ://toxmod.xyz/discord">Discord</a> Bot 
